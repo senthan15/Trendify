@@ -11,7 +11,6 @@ Trendify is a modern and responsive web application that delivers the latest tec
 - 💡 **Dynamic Routing:** Uses React Router for category-based navigation.
 - 🧩 **Reusable Components:** Clean component-based architecture using React.
 - 🎨 **Responsive Design:** Fully responsive for desktop and mobile views.
-- 
 ---
 
 ## 🛠️ Tech Stack
