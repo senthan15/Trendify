@@ -1,4 +1,4 @@
-# 🔥 Trendify - Tech News Aggregator
+# 🔥 Trendify - Tech News
 
 Trendify is a modern and responsive web application that delivers the latest technology news in real time. Powered by the GNews API, Trendify helps users stay updated on trending topics such as Web Development, Artificial Intelligence, Machine Learning, and Data Science.
 
@@ -11,7 +11,6 @@ Trendify is a modern and responsive web application that delivers the latest tec
 - 💡 **Dynamic Routing:** Uses React Router for category-based navigation.
 - 🧩 **Reusable Components:** Clean component-based architecture using React.
 - 🎨 **Responsive Design:** Fully responsive for desktop and mobile views.
-- 🌙 **Dark Mode Support (optional):** Easy on the eyes at night.
 
 ---
 
@@ -21,13 +20,11 @@ Trendify is a modern and responsive web application that delivers the latest tec
 - **Styling:** Tailwind CSS
 - **Icons:** React Icons
 - **API:** GNews API
-- **Deployment:** Netlify / Vercel (suggested)
-
 ---
 
 ## 📂 Project Structure
 
-
+```bash
 
 trendify/
 ├── public/
@@ -46,5 +43,5 @@ trendify/
 ├── README.md
 ├── package.json
 └── vite.config.js
-
+``` 
 ---
